@@ -1,0 +1,26 @@
+TO DO LIST, some of the to do list stuff is database dev stuff, other is ingame building etc, but there's for sure something you can do:
+
+Mall - Place the vendors correctly, make sure it's looking good.
+
+Find some cool objects for the mall, to design and make it look better, in your kind of way!
+
+Find some cool morphs, there's some npc's/vendors in the mall, which has a standard morph, like an orgrimmar orc, you can 
+Find a better one for that one.
+
+Add off gear of vicious (371, MAKE SURE IT'S 371), and add it to Harbinger Ennarth, some of it are already added.
+
+Find a new vendor and add ruthless gear in it, just add it for free. - One vendor with main set ruthless, OFFSET RUTHLESS And one VENDOR with weapons, bows etc. (Very Useful!)
+
+(-DB, Dev Script firelands correctly. (Some of the mobs has like 1500 health, find the name of the fireland mob, and wowhead/google it, and find the correct health, and add that correct health instead. (Not all needs that.)
+
+Add a GEM vendor, with all gems in. (Only in one vendor please.)
+
+Go to gurubashi arena and add the food vendor id = (51693), and the reagents id = (400013), and maybe a mailbox, and maybe 2 duel/horde and ally flags.
+
+-Etox start the quest area, same place, and start adding a teleporter there, and maybe some vendors, food, reagents, mailbox and a quest giver or so.
+
+ADD a PET MALL/AREA, you find a nice looking place, where there's space for a lot of hunter pets, and then you add a lot of good/known pets, skoll, a monkey, etc. 
+
+ExonatioN - Change ranks on the chat system, and colours.
+
+Add Starting quests, "Speak with the enchant vendor", "Speak with the gear vendor and buy your gear", "Speak with the glyph vendor, and get ready for the fight", and so on. 
